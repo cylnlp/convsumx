@@ -6,5 +6,5 @@ ConvSumX is a cross-lingual conversation summarization benchmark, through a anno
 
 ConvSumX consists of 2 sub-tasks: *[DialogSumX](https://github.com/cylnlp/convsumx/tree/main/ConvSumX_data/DialogSumX)* and *[QMSumX](https://github.com/cylnlp/convsumx/tree/main/ConvSumX_data/QMSumX)*, with each covering 3 language directions: En2Zh, En2Fr and En2Ukr.
 
-This work is accepted by ACL 2023. You may find the paper [here](https://github.com/cylnlp/convsumx/tree/main/ConvSumX_paper.pdf).
+This work is accepted by ACL 2023. You may find the paper [here](https://aclanthology.org/2023.acl-long.519.pdf).
 
